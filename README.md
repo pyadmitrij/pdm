@@ -1,3 +1,0 @@
-# pdm
-GoJAVA
-hello
